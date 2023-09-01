@@ -1,0 +1,28 @@
+{
+  "name": "k6-exploring-exploding",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julianhm9612/k6-exploring-exploding.git"
+  },
+  "keywords": [
+    "k6",
+    "Load testing",
+    "Testing"
+  ],
+  "author": "Julian Henao Marin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Julianhm9612/k6-exploring-exploding/issues"
+  },
+  "homepage": "https://github.com/Julianhm9612/k6-exploring-exploding#readme",
+  "dependencies": {
+    "k6": "^0.0.0"
+  }
+}
